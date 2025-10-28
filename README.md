@@ -1,1 +1,1 @@
-This file was updated by branch B
+This file was edited by branch A
